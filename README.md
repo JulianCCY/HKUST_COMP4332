@@ -1,1 +1,1 @@
-# HKUST_COMP4332
+# HKUST COMP4332 Big Data Mining and Management
